@@ -3,7 +3,8 @@
 
 # Own chisel projects
 
-| Project                                              | version |
-|:----------------------------------------------------:|:-------:|
-| [fpgamacro](https://github.com/Martoni/fpgamacro)    | 6.2.0   |
-| [WbPlumbing](https://github.com/Martoni/WbPlumbing)  | 6.2.0   |
+| Project                                              | version | Chisel version |
+|:----------------------------------------------------:|:-------:|:--------------:|
+| [fpgamacro](https://github.com/Martoni/fpgamacro)    | 6.2.1   |     6.2.0      |
+| [WbPlumbing](https://github.com/Martoni/WbPlumbing)  | 6.2.0   |     6.2.0      |
+| [chisNesPad](https://github.com/Martoni/chisNesPad)  | 6.2.0   |     6.2.0      |
