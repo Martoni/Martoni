@@ -6,6 +6,6 @@
 | Project                                              | version | Chisel version |
 |:----------------------------------------------------:|:-------:|:--------------:|
 | [fpgamacro](https://github.com/Martoni/fpgamacro)    | 6.2.1   |     6.2.0      |
-| [WbPlumbing](https://github.com/Martoni/WbPlumbing)  | 6.2.4   |     6.2.0      |
+| [WbPlumbing](https://github.com/Martoni/WbPlumbing)  | 6.2.5   |     6.2.0      |
 | [chisNesPad](https://github.com/Martoni/chisNesPad)  | 6.2.0   |     6.2.0      |
 | [HdmiCore](https://github.com/Martoni/HdmiCore)      | 6.2.0   |     6.2.0      |
