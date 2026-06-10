@@ -3,14 +3,15 @@
 
 # Own chisel projects
 
-| Project                                              | version | Chisel version |
-|:----------------------------------------------------:|:-------:|:--------------:|
-| [fpgamacro](https://github.com/Martoni/fpgamacro)    | 6.2.2   |     6.2.0      |
-| [WbPlumbing](https://github.com/Martoni/WbPlumbing)  | 6.2.9   |     6.2.0      |
-| [chisNesPad](https://github.com/Martoni/chisNesPad)  | 6.2.0   |     6.2.0      |
-| [HdmiCore](https://github.com/Martoni/HdmiCore)      | 6.2.0   |     6.2.0      |
-| [wbGPIO](https://github.com/Martoni/wbGPIO)          | 6.3.0   |     6.2.0      |
-| [spi2wb](https://github.com/Martoni/spi2wb)          | 6.2.3   |     6.2.0      |
+| Project                                                | version | Chisel version |
+|:------------------------------------------------------:|:-------:|:--------------:|
+| [fpgamacro](https://github.com/Martoni/fpgamacro)      | 6.2.2   |     6.2.0      |
+| [WbPlumbing](https://github.com/Martoni/WbPlumbing)    | 6.2.9   |     6.2.0      |
+| [ChisArmadeus](https://github.com/Martoni/ChisArmadeus)| 6.2.0   |     6.2.0      |
+| [chisNesPad](https://github.com/Martoni/chisNesPad)    | 6.2.0   |     6.2.0      |
+| [HdmiCore](https://github.com/Martoni/HdmiCore)        | 6.2.0   |     6.2.0      |
+| [wbGPIO](https://github.com/Martoni/wbGPIO)            | 6.3.0   |     6.2.0      |
+| [spi2wb](https://github.com/Martoni/spi2wb)            | 6.2.3   |     6.2.0      |
 
 # POD (Peripherals On Demand)
 
